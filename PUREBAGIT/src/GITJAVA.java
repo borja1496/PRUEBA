@@ -1,5 +1,5 @@
 
 public class GITJAVA {
 	
-	int modificada132;
+	int modificada12;
 }

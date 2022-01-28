@@ -1,4 +1,5 @@
 
 public class GITJAVA {
-	wrgtmrñkewgh
+	
+	int modificada12;
 }

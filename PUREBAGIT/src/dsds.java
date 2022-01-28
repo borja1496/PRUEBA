@@ -2,6 +2,6 @@
 public class dsds {
 	int numero;
 	int persona;
-	// es otra prueba mas
+	// es otra prueba mas a
 
 }

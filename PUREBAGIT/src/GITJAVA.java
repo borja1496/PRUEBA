@@ -1,5 +1,5 @@
 
 public class GITJAVA {
-	wrgtmrñkewgh
-	prueba modificada
+	
+	int modificada;
 }
